@@ -18,3 +18,7 @@ The CyC2018 repository helped me practice LeetCode questions in an efficient way
 ## Data Structures
 
 ---
+
+| No.  | Title      | Tags                   | Difficulty |
+| ---- | ---------- | ---------------------- | ---------- |
+| #283 | Move Zeros | `Array` `Two Pointers` | Easy       |
