@@ -5,7 +5,7 @@
 Repo by <a href="https://github.com/CyC2018">CyC2018</a><br>
 Here is <a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md">Java Solutions</a>
 
-<a href=''>English Version</a>
+<a href="https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/README_EN.md">English Version</a>
 
 ## What is LeetCode 200?
 
@@ -19,6 +19,6 @@ CyC2018 的题库帮助我高效的分类练习了 LeetCode 上的题目，由�
 
 ---
 
-| 题号 | 题目   | 标签            | 难度 |
-| ---- | ------ | --------------- | ---- |
-| #283 | 移动零 | `数组` `双指针` | 简单 |
+| 题号                                              | 题目                                                                                                    | 标签            | 难度 |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ---- |
+| [#283](https://leetcode.cn/problems/move-zeroes/) | [移动零](https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/Data%20Structures/Arrays.md) | `数组` `双指针` | 简单 |
