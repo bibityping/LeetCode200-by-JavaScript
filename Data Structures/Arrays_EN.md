@@ -1,15 +1,15 @@
 # Leetcode Solutions - Arrays and Matrices
 
-##### [中文版本](Arrays.md)
+[**简体中文**](Arrays.md)
 
 ---
 
 **Table Of Contents:**
 
-- [Leetcode Solutions - Arrays and Matrices](#leetcode-solutions---arrays-and-matrices) - [中文版本](#中文版本) - [Table Of Contents:](#table-of-contents)
-  - [LeetCode Solution - #283 Move Zeroes](#leetcode-solution---283-move-zeroes)
-    - [Description](#description)
-    - [JavaScript Solution](#javascript-solution)
+- [Leetcode Solutions - Arrays and Matrices](#leetcode-solutions---arrays-and-matrices)
+    - [LeetCode Solution - #283 Move Zeroes](#leetcode-solution---283-move-zeroes)
+      - [Description](#description)
+      - [JavaScript Solution](#javascript-solution)
 
 ### LeetCode Solution - #283 Move Zeroes
 
