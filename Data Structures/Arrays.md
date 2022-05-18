@@ -1,15 +1,15 @@
 # Leetcode 题解 - 数组与矩阵
 
-##### [English Version](Arrays_EN.md)
+[**English Version**](Arrays_EN.md)
 
 ---
 
 **目录：**
 
-- [Leetcode 题解 - 数组与矩阵](#leetcode-题解---数组与矩阵) - [English Version](#english-version) - [目录：](#目录)
-  - [LeetCode 题解 - #283 移动零](#leetcode-题解---283-移动零)
-    - [题目](#题目)
-    - [JavaScript 题解](#javascript-题解)
+- [Leetcode 题解 - 数组与矩阵](#leetcode-题解---数组与矩阵)
+    - [LeetCode 题解 - #283 移动零](#leetcode-题解---283-移动零)
+      - [题目](#题目)
+      - [JavaScript 题解](#javascript-题解)
 
 ### LeetCode 题解 - #283 移动零
 
