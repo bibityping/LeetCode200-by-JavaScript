@@ -5,7 +5,7 @@
 Repo by <a href="https://github.com/CyC2018">CyC2018</a><br>
 Here is <a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md">Java Solutions</a>
 
-<a href="https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/README.md">Chinese Version</a>
+<a href="https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/README.md">简体中文</a>
 
 ## What is LeetCode 200?
 
@@ -19,6 +19,6 @@ The CyC2018 repository helped me practice LeetCode questions in an efficient way
 
 ---
 
-| No.                                                | Title                                                                                                       | Tags                   | Difficulty |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- |
-| [#283](https://leetcode.com/problems/move-zeroes/) | [Move Zeros](https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/Data%20Structures/Arrays.md) | `Array` `Two Pointers` | Easy       |
+| No.                                                | Title                                                                                                        | Tags                   | Difficulty |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------- | ---------- |
+| [#283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](https://github.com/bibityping/LeetCode200-by-JavaScript/blob/main/Data%20Structures/Arrays.md) | `Array` `Two Pointers` | Easy       |
