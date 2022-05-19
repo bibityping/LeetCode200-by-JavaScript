@@ -13,7 +13,7 @@ Here is <a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%
 
 数据结构和算法是每个程序员通过面试的必备技能，本仓库中的数据和算法题是由 CyC2018 在 Leetcode 中精选出的大概 200 道题目，去除了某些繁杂但没有多少算法思想的题目，此外还保留了面试中常被问到的经典题目。
 
-CyC2018 的题库帮助我高效的分类练习了 LeetCode 上的题目，由于 CyC2018 的题解语言用的是 Java，而我用的 JavaScript,因此我建立这个仓库，分享 JS 的题解，同时也作为我练习的笔记记录。
+CyC2018 的题库帮助我高效的分类练习了 LeetCode 上的题目，由于 CyC2018 的题解语言用的是 Java，而我用的是 JavaScript,此外发现用 JS 刷题的资料相对较少，因此我建立这个仓库，分享 JS 的题解，同时也作为我练习的笔记记录。
 
 ## Data Structures
 
