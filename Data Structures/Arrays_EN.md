@@ -50,16 +50,16 @@ Follow up: Could you minimize the total number of operations done?
 
 ```javascript
 var moveZeroes = function (nums) {
-  let nonZeroIndex = 0
+  let j = 0
 
   for (let i = 0; i < nums.length; i++) {
     if (nums[i] !== 0) {
-      nums[nonZeroIndex] = nums[i]
-      nonZeroIndex++
+      nums[j] = nums[i]
+      j++
     }
   }
 
-  for (i = nonZeroIndex; i < nums.length; i++) {
+  for (i = j; i < nums.length; i++) {
     nums[i] = 0
   }
 
